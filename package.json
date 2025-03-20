@@ -1,0 +1,11 @@
+{
+  "name": "imgsampler",
+  "version": "1.0.0",
+  "description": "returns pixel information from an image",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Thomas McElmeel",
+  "license": "ISC"
+}
